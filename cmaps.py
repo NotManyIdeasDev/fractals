@@ -1,0 +1,1 @@
+colorschemes =  ['viridis', 'plasma', 'inferno', 'magma', 'cividis']
